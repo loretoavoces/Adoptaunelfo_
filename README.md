@@ -14,8 +14,8 @@ Adoptaunelfo_ is an application designed for all those people without Christmas 
 * Mongoose
 * MongoDB
 * React Bootstrap
-* CSS
-* HTML
+* CSS3
+* HTML5
 * Passport
 * Heroku
 
