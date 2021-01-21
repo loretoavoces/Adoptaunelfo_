@@ -2,7 +2,7 @@
 ## Description
 Adoptaunelfo_ is an application designed for all those people without Christmas dinner because of the covid. You can login as an elf looking for a dinner or as an admin looking for an elf to adopt.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://res.cloudinary.com/demo/video/upload/rsswf9muyxj0ltgcnvaw.mp4)
 
 
 ## Authors 
