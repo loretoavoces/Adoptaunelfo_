@@ -2,6 +2,8 @@
 ## Description
 Adoptaunelfo_ is an application designed for all those people without Christmas dinner because of the covid. You can login as an elf looking for a dinner or as an admin looking for an elf to adopt.
 
+<a href="download/acme-doc-2.0.1.txt" download="Acme Documentation (ver. 2.0.1).txt">Download Text</a>
+
 ## Authors 
 * Loreto Álvarez Voces
 * Teresa Torrente
