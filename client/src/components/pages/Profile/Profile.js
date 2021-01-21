@@ -28,7 +28,7 @@ class Profile extends Component {
   render() {
     return (
       <>
-        <main className="main">
+        <main className="main" style={{ position: "absolute", width: "100%", height: "100%", objectFit: "cover"}}>
           <Container>
             <Row>
               <div className="card-profile">
